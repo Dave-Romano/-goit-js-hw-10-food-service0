@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dave-romano.github.io/goit-js-hw-10-food-service1",
+  "homepage": "https://dave-romano.github.io/-goit-js-hw-10-food-service0",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service1/"
+    "build": "parcel build src/*.html --public-url /-goit-js-hw-10-food-service0/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dave-Romano/goit-js-hw-10-food-service1.git"
+    "url": "git+https://github.com/Dave-Romano/-goit-js-hw-10-food-service0.git"
   },
   "keywords": [],
   "author": "David Romano <dave@online.ua>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dave-Romano/goit-js-hw-10-food-service1/issues"
+    "url": "https://github.com/Dave-Romano/-goit-js-hw-10-food-service0/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
